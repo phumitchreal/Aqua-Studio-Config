@@ -6,7 +6,7 @@
   "REPO_OWNER": "phumitchreal",
   "REPO_NAME": "Aqua-Studio-Config",
   "MODLOADER": "forge",
-  "LOGO_URL": "https://raw.githubusercontent.com/phumitchreal/Aqua-Studio-Config/refs/heads/main/Aqua_Studio_Logo.png",
+  "LOGO_URL": "/Aqua_Studio_Logo.png",
   "BG_IMAGE_URL": "https://raw.githubusercontent.com/phumitchreal/Aqua-Studio-Config/refs/heads/main/background.jpg",
 
   "MC_VERSION": "1.20.1",
