@@ -15,17 +15,17 @@
   "DEFAULT_MAX_RAM": "4G",
   "DEFAULT_MIN_RAM": "2G",
 
-  "DISCORD_CLIENT_ID": "1484021494026735767",
+  "DISCORD_CLIENT_ID": "1533075453081026631",
   "RPC": {
-    "DETAILS": "กำลังเล่นบนเซิร์ฟเวอร์ Zexta",
-    "STATE": "ซีซัน 1: Initial",
+    "DETAILS": "กำลังเล่นบนโปรเจค Aqua Studio",
+    "STATE": "AQUES",
     "LARGE_IMAGE_KEY": "logo",
-    "LARGE_IMAGE_TEXT": "Zexta Project"
+    "LARGE_IMAGE_TEXT": ""
   },
 
   "SOCIAL": {
-    "DISCORD": "https://discord.gg/frontline",
-    "WEBSITE": "https://frontline-project.com"
+    "DISCORD": "-",
+    "WEBSITE": "-"
   },
 
   "ANNOUNCEMENTS": [
