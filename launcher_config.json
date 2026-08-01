@@ -4,13 +4,12 @@
   "VERSION": "0.0.1",
   "BUILD_HASH": "e2f4c5a9",
   "REPO_OWNER": "phumitchreal",
-  "REPO_NAME": "Frontline-Project",
+  "REPO_NAME": "Aqua-Studio-Config",
 
-  "LOGO_URL": "/zexta-logo.png",
+  "LOGO_URL": "/Aqua_Studio_Logo.png",
   "BG_IMAGE_URL": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=2000&auto=format&fit=crop",
 
-  "MC_VERSION": "1.21.1",
-  "SERVER_IP": "memory-ears.gl.joinmc.link",
+  "MC_VERSION": "1.20.1",
   "MODPACK_URL": "https://github.com/phumitchreal/Frontline-Project/raw/refs/heads/main/Unless%201.0.0.mrpack",
 
   "DEFAULT_MAX_RAM": "4G",
@@ -30,7 +29,7 @@
   },
 
   "ANNOUNCEMENTS": [
-    "ยินดีต้อนรับสู่ Zexta Project - ซีซัน 1 เปิดให้บริการแล้ว!",
+    "ยินดีต้อนรับสู่ Aqua Studio - เปิด Launcher แล้ว!",
     "เข้าร่วม Discord เพื่อรับข่าวสารอัปเดตล่าสุดและกิจกรรมของชุมชน",
     "มีโมดแพ็กอัปเดต 1.0.0 แล้ว กรุณาซิงก์โมดของคุณ"
   ],
