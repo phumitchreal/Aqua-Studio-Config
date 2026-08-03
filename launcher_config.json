@@ -8,7 +8,7 @@
   "MODLOADER": "forge",
   "LOGO_URL": "/Aqua_Studio_Logo.png",
   "BG_IMAGE_URL": "https://raw.githubusercontent.com/phumitchreal/Aqua-Studio-Config/refs/heads/main/background.jpg",
-  "LAUNCHER_VERSION": "0.0.3",
+  "LAUNCHER_VERSION": "0.0.4",
   "LAUNCHER_DOWNLOAD_URL": "https://github.com/phumitchreal/Aqua-Studio-Config/releases/download/Launcher/Aqua.Launcher_0.0.3_x64-setup.exe",
   "MC_VERSION": "1.20.1",
   "MODPACK_URL": "https://github.com/phumitchreal/Aqua-Studio-Config/releases/download/Modpack/Aqua.Studio.1.0.5.mrpack",
