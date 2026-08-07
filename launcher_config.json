@@ -6,7 +6,7 @@
   "REPO_OWNER": "phumitchreal",
   "REPO_NAME": "Aqua-Studio-Config",
   "MODLOADER": "forge",
-  "LOGO_URL": "/Aqua_Studio_Logo.png",
+  "LOGO_URL": "/logo.png",
   "BG_IMAGE_URL": "https://raw.githubusercontent.com/phumitchreal/Aqua-Studio-Config/refs/heads/main/background.jpg",
   "LAUNCHER_VERSION": "0.0.6",
   "LAUNCHER_DOWNLOAD_URL": "https://github.com/phumitchreal/Aqua-Studio-Config/releases/download/Launcher/Aqua.Launcher_0.0.6_x64-setup.exe",
